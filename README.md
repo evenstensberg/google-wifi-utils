@@ -12,6 +12,12 @@ This assumes that you know infosec and web development. This is because we would
 
 Luckily, Google follows strict convention, so it would make our job easier :)
 
+## Routes
+
+- https://autopush-accesspoints.sandbox.googleapis.com/
+- http://192.168.86.1/ (Your local wifi address)
+- https://people-pa.googleapis.com
+- http://googleapis.com
 
 
 ## Relative Links
